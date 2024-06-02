@@ -68,7 +68,7 @@ train step: 100
 ![image](https://github.com/shfnqkdlfjtm/DeepDreamStyle/assets/144716487/f07b953d-10f7-49f1-abe5-dc93e2f332e4)  
 traim step: 400  
 ![image](https://github.com/shfnqkdlfjtm/DeepDreamStyle/assets/144716487/54e02ba3-0465-4df0-a7b5-c884bc104737)  
-time step:1000 (total time: 1090.9)
+time step:1000 (total time: 1090.9)  
 ![image](https://github.com/shfnqkdlfjtm/DeepDreamStyle/assets/144716487/4638ea09-52bc-4c3b-addb-af1466ebd790)  
 
 
