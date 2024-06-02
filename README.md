@@ -74,7 +74,8 @@ traim step: 400
 time step:1000 (total time: 1090.9)  
 ![image](https://github.com/shfnqkdlfjtm/DeepDreamStyle/assets/144716487/4638ea09-52bc-4c3b-addb-af1466ebd790)  
 
-
+## 결론
+최종 deep dream 이미지와 이미지를 저장해서 바로 불러온 결과 이미지에 차이가 있어 로컬파일로 저장한 뒤 불러온 이미지와 etc 이미지로 교체해본 결과, 한번 딥러닝을 거친 이미지는 컴퓨터에서 인식 결과 이미지와 같아서 StyleGAN 결과가 제대로 나오지 않는 다는 것을 깨달았다.
 
 ## References
 https://www.tensorflow.org/tutorials/generative/deepdream?hl=ko  
