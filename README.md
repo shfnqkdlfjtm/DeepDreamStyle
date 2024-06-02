@@ -1,10 +1,10 @@
 # DeepDreamStyle
-StyleGAN과 DeepDream을 합침
+DeepDream model을 이용해서 이미지를 생성하고, 생성한 이미지를 StyleGAN에서 style 이미지로 사용해서 최종 이미지를 생성한다.
 
 
 ## Model
 ### DeepDream
-DeepDream은 기존의 이미지를 이용해 뉴럴 네트워크의 내부를 시각화하고, 특정 패턴을 증폭하여 환상적인 이미지를 생성하는 알고리즘이다.. 이 프로젝트에서는 DeepDream을 통해 생성된 이미지를 StyleGAN의 스타일 이미지로 사용한다.
+DeepDream은 기존의 이미지를 이용해 뉴럴 네트워크의 내부를 시각화하고, 특정 패턴을 증폭하여 환상적인 이미지를 생성하는 알고리즘이다. 이 프로젝트에서는 DeepDream을 통해 생성된 이미지를 StyleGAN의 스타일 이미지로 사용한다.
 
 주요 요소
 기본 모델: InceptionV3
