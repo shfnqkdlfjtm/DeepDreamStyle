@@ -58,6 +58,9 @@ OCTAVE_SCALE = 1.30
 ![image](https://github.com/shfnqkdlfjtm/DeepDreamStyle/assets/144716487/9b0e1261-6280-40b4-8001-ff5628695144)  
 최종 deep dream 이미지  
 ![image](https://github.com/shfnqkdlfjtm/DeepDreamStyle/assets/144716487/3f2675e1-8549-48d2-b335-48e6b47f2cb9)  
+etc  
+![스크린샷 2024-06-02 204942](https://github.com/shfnqkdlfjtm/DeepDreamStyle/assets/144716487/91d7a321-7f40-43a2-8223-41085e7687ad)  
+
 
 ### DeepDream 이미지에 StyleGAN을 추가한 과정  
 이전 deep dream 이미지를 저장해서 바로 불러온 결과와 style 이미지  
